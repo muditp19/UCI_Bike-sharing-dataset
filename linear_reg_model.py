@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Homework_01
-
 # # Importing Libraries and loading Data using Pandas Library
 
 # In[20]:
